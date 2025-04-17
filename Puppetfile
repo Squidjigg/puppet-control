@@ -17,5 +17,5 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 
 mod 'apache',
-  git:	  'https://github.com/Squidjigg/puppet-apache.git',
-  branch: 'master'	
+  :git    => 'https://github.com/Squidjigg/puppet-apache.git',
+  :branch => 'main'	
